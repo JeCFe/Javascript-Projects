@@ -1,0 +1,15 @@
+body{
+    background-color: blue;
+}
+.mazeDiv{
+    justify-content:center;
+    display: inline-block;
+    width:80%;
+
+}
+
+.content {
+    width: 100%;
+    text-align: center;
+    word-wrap: break-word;
+}
